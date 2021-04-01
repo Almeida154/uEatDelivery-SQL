@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native'
+import {StyleSheet} from 'react-native'
 
 export default StyleSheet.create({
     container: {
@@ -27,7 +27,7 @@ export default StyleSheet.create({
     },
 
     title: {
-        backgroundColor: '#FFC25B',
+        backgroundColor: '#6E310B',
         paddingHorizontal: 25,
         paddingTop: 16,
         paddingBottom: 14,
