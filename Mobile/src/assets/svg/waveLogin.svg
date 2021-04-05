@@ -1,12 +1,12 @@
 <svg viewBox="0 0 720 80"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
-    <path fill="rgba(255, 209, 139, 1)" 
+    <path fill="#FFD18B" 
         d="M 0 0 C 444.5 0 444.5 181 889 181 L 889 181 L 889 0 L 0 0 Z"
         stroke-width="0">
     </path>
 
-    <path fill="rgba(255, 209, 139, 1)" 
+    <path fill="#FFD18B" 
         d="M 888 181 C 1124 181 1124 0 1360 0 L 1360 0 L 1360 0 L 888 0 Z"
         stroke-width="0">
     </path>

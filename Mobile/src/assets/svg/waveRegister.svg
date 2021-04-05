@@ -1,0 +1,15 @@
+<svg viewBox="0 0 780 120" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path 
+        fill="#6E310B" 
+        d="M 0 0 C 345.5 0 345.5 110 691 110 L 691 110 L 691 0 L 0 0 Z" 
+        stroke-width="0">
+    </path>
+    
+    <path
+        fill="#6E310B" 
+        d="M 690 110 C 1025 110 1025 0 1360 0 L 1360 0 L 2360 0 L 690 0 Z" 
+        stroke-width="0">
+    </path>
+</svg>
